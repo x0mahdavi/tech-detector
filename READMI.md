@@ -15,7 +15,7 @@
 ## 📸 نمایی از برنامه
 
 <p align="center">
-  <img src="./screenshot.png" alt="Tech Detector Pro Screenshot" width="900">
+  <img src="/1.png" alt="Tech Detector Pro Screenshot" width="900">
 </p>
 
 ---
